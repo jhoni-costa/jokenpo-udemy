@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokenpô</string>
+    <string name="app_escolha">Escolha do App</string>
+    <string name="resultado">Escolha sua jogada</string>
+</resources>
